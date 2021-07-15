@@ -1,7 +1,6 @@
 #Hosted Link
 <br />
-<link src="https://arvindsingh99.github.io/JavaScript-QR-Code-Generator/
-" />
+<a href="https://arvindsingh99.github.io/JavaScript-QR-Code-Generator/" class="button warning">Project Demo Link</a>
 
-<button href="https://arvindsingh99.github.io/JavaScript-QR-Code-Generator/
+<button href="
 "> Link </button>
